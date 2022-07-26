@@ -1,6 +1,8 @@
 java
+
 dbms
 
+goggle cloud platform
 
 
 
@@ -8,4 +10,14 @@ oops
 
 
 aws
+
+
+azure
+
+
+      rewanthsaai
+                  thank you :)
+		             
+
+			    final copy
 
